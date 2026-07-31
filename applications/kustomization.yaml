@@ -2,3 +2,4 @@ resources:
   - nginx-app/application.yaml
   - observability/prometheus-stack.yaml
   - ingress-nginx/ingress-nginx.yaml
+  - sample-api/application.yaml
