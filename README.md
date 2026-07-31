@@ -25,7 +25,8 @@ The implementation focuses on:
 
 # Architecture
 
-![Platform Architecture](image.png)
+<img width="1360" height="1280" alt="image" src="https://github.com/user-attachments/assets/e20bf325-5362-45ac-a5a3-4b7608cdaf84" />
+
 
 ## High-Level Flow
 
