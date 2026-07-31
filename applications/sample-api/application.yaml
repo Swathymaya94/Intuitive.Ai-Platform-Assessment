@@ -11,7 +11,7 @@ spec:
 
   source:
     repoURL: https://github.com/swathymaya94/Intuitive.Ai-Platform-Assessment.git
-    targetRevision: HEAD
+    targetRevision: feat/argocd-bootstrap
     path: applications/sample-api/base
 
   destination:
