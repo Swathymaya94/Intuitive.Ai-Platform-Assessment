@@ -21,7 +21,8 @@ The main goals of this project are:
 ## Architecture
 
 High-level architecture:
-![alt text](image.png)
+<img width="1360" height="1280" alt="image" src="https://github.com/user-attachments/assets/091b8c71-86db-48ba-a81e-603fd935a65b" />
+
 
 ## Technology Stack
 
@@ -48,7 +49,7 @@ High-level architecture:
 └── docs
 ## Current Status
 
-🚧 Project under active development.
+Project under active development.
 
 ## Future Roadmap
 
