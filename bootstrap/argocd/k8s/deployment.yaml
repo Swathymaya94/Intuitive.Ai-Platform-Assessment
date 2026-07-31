@@ -3,7 +3,8 @@ kind: Deployment
 metadata:
   name: nginx
 spec:
-  replicas: 2
+  # Increased replicas from 2 to 3 to test ArgoCD automated sync
+  replicas: 3
   selector:
     matchLabels:
       app: nginx
